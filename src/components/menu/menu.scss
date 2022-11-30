@@ -1,0 +1,10 @@
+.menu {
+  width: 180px;
+  background: #122090;
+
+  &__logo {
+    width: 100%;
+    height: 80px;
+    background: linear-gradient(0deg, rgba(18, 32, 144, 0.85), rgba(18, 32, 144, 0.85)), #ffffff;
+  }
+}
